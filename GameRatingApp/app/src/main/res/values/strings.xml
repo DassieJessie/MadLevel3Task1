@@ -10,6 +10,10 @@
 
     <!-- Rating Fragment -->
     <string name="rate_info">Rate the following game from 1 to 5 stars!</string>
-    <string name="game_tombraider">Shadow of the Tombraider</string>
     <string name="to_summarise">To summarise</string>
+
+    <!-- Games (doesn't get used from here)-->
+    <string name="red_dead2">Red Dead Redemption 2</string>
+    <string name="tombraider">Shadow of the Tombraider</string>
+    <string name="rocket_league">"Rocket League"</string>
 </resources>
